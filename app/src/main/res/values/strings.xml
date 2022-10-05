@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">HSBC Cash Back Tracker</string>
+
+    <string-array name="spend_categories">
+        <item>Petrol Spend</item>
+        <item>Groceries Spend</item>
+        <item>eWallet Transactions</item>
+        <item>All other Eligible Spend</item>
+
+    </string-array>
+</resources>
